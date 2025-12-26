@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# IDE files
+.idea/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
